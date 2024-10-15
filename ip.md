@@ -3,10 +3,11 @@
 ## Overview
 
 The `ip` command is a modern replacement for `ifconfig`, providing more features and capabilities. It is used for managing IP addresses, routes, and network devices in Linux.
-
+<div>
 <iframe width="720" height="425"
 src="https://www.youtube.com/embed/40_HLC0J8DE">
 </iframe>
+</div>
 
 ## Common Use Cases
 - View and modify IP addresses and routes.
