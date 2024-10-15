@@ -26,4 +26,7 @@ ifconfig eth0
 
 ## Additional Resources
 - [Video: Understanding ifconfig](https://www.youtube.com/watch?v=UadCuDLyqlY)
-- [Practice Lab: Configuring Network Interfaces with ifconfig](https://www.example.com/ifconfig-lab)
+- [Practice Lab: Configuring Network Interfaces with ifconfig](https://linuxjourney.com/lesson/network-interfaces)
+
+## References:
+
