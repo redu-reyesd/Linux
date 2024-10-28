@@ -36,24 +36,36 @@ Here are some practical ways to use the `ss` command to manage and monitor netwo
    ```bash
    ss -a
    ```
+
+   ![](./img/ss1.png)
    This command shows all sockets, including those that are listening and established, across all protocols (TCP, UDP, etc.).
 
 2. **Show Only TCP Connections**:
    ```bash
    ss -t
    ```
-   Lists only the TCP sockets, which can help focus on reliable, connection-based protocols.
+   
+   ![](./img/ss2.png)
+   
+   This command filters the output to show only TCP connections, which can be useful for diagnosing issues.
+   
 
 3. **Show Only UDP Connections**:
    ```bash
    ss -u
    ```
-   Lists only UDP sockets, useful for applications using UDP for connectionless communication.
+   ![](./img/ss3.png)
+   
+   This command shows only UDP connections, which can be useful for applications that use UDP for communication.
+   
 
 4. **View Listening Sockets Only**:
    ```bash
    ss -l
    ```
+
+   ![](./img/ss4.png)
+
    Filters results to display only listening sockets, showing which services are actively waiting for connections.
 
 5. **Display Process Information with Sockets**:
@@ -66,6 +78,8 @@ Here are some practical ways to use the `ss` command to manage and monitor netwo
    ```bash
    ss -tn
    ```
+   ![](./img/ss5.png)
+   
    Displays addresses and ports in numerical format without resolving hostnames, which can be faster and useful for scripting.
 
 ### Output Details
