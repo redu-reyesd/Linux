@@ -42,6 +42,7 @@ The `nslookup` command provides a quick way to translate an FQDN into an IP addr
 ```bash
 nslookup google.com
 ```
+- **Output**:
 
 ![](./img/nslookup4.png)
 
@@ -85,6 +86,7 @@ nslookup google.com
   - **Purpose**: NS records list the authoritative DNS servers for a domain. These servers hold the official records for the domain and answer queries about it.
 
 - **Output**:
+
 ![](./img/nslookup2.png)
 
 #### 4. **Address (A) Record Lookup**
