@@ -72,6 +72,7 @@ nslookup google.com
   - **Purpose**: This query finds the mail servers that handle email for `google.com`.
 
 - **Output**:
+
     ![](./img/nslookup1.png)
 
 #### 3. **Name Server (NS) Record Lookup**
@@ -84,7 +85,7 @@ nslookup google.com
   - **Purpose**: NS records list the authoritative DNS servers for a domain. These servers hold the official records for the domain and answer queries about it.
 
 - **Output**:
- ![](./img/nslookup2.png)
+![](./img/nslookup2.png)
 
 #### 4. **Address (A) Record Lookup**
 - **Command**:
@@ -96,7 +97,8 @@ nslookup google.com
   - **Purpose**: This query finds the IP addresses associated with `google.com`.
 
 - **Output**:
-    ![](./img/nslookup1.png)
+
+![](./img/nslookup1.png)
 
 ## Practice Exercises
 1. Use `nslookup` to resolve a website's IP address.
