@@ -119,5 +119,13 @@ In this output:
 Proper management of services is fundamental to ensuring that necessary applications run smoothly and consistently. Automating service management for critical applications reduces downtime, and disabling unnecessary services improves security and performance.
 
 # References
-- [Managing Systemd Services](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
-- [Systemd Essentials: Working with Services](https://www.linode.com/docs/guides/start-stop-restart-systemd/)
+
+- DigitalOcean. (2021, March 5). *Managing systemd services*. DigitalOcean. https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units
+
+- Linode. (2022, February 18). *Systemd essentials: Working with services*. Linode. https://www.linode.com/docs/guides/start-stop-restart-systemd/
+
+- LearnLinuxTV. (2023, January 12). *How to manage services in Ubuntu* [Video]. YouTube. https://www.youtube.com/watch?v=Kzpm-rGAXos 
+
+- LearnLinuxTV. (2023, February 10). *Practice lab: Service management in Ubuntu* [Video]. YouTube. https://www.youtube.com/watch?v=5JVBpXiYMKo 
+
+- TechWorld. (2023, March 22). *Service management overview in Ubuntu* [Video]. YouTube. https://www.youtube.com/watch?v=8BCjDMhdDwo
