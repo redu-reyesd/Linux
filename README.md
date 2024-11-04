@@ -26,10 +26,11 @@ Each section of the guide will provide command explanations, examples, and how t
 
 ### **File Management**
 - [9. File Permissions and Execution](file-permissions.md)
-   - Viewing and Changing File Permissions
-   - Executing Scripts and Files
-   - Listing Hidden Files
-   - Additional Resources
+   - [Viewing and Changing File Permissions](./file_permissions.md)
+   - [Changing File Ownership](./file_ownership.md)
+   - [Executing Scripts and Files](./Executing_files.md)
+   - [Listing Hidden Files](./hidden_files.md)
+
 
 ### **Monitoring with Nagios**
 - [10. Using Commands with Nagios](nagios-integration.md)
