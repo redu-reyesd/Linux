@@ -25,7 +25,7 @@ Each section of the guide will provide command explanations, examples, and how t
 - [8. Checking Running Services on Ubuntu](services.md)
 
 ### **File Management**
-- [9. File Permissions and Execution](file-permissions.md)
+   - [ File Permissions and Execution](./file_permissions.md)
    - [Viewing and Changing File Permissions](./file_permissions.md)
    - [Changing File Ownership](./file_ownership.md)
    - [Executing Scripts and Files](./Executing_files.md)
